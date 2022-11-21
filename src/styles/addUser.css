@@ -1,0 +1,57 @@
+.adduser{
+    margin-left: 30%;
+    background-color:rgb(3, 3, 26) ;
+    width: 60%;
+    height: 100vh;
+}
+
+.but{
+    padding-left: 5px;
+    padding-top: 38px;
+
+}
+
+input{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid white;
+    background-color:rgb(3, 3, 26) ;
+    
+    color: white;
+    width: 500px;
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+
+
+#add{
+    padding: 0px 45px;
+     color: white;
+     /* display: flex;
+     flex-direction: column; */
+     justify-content: space-evenly;
+     margin-right: 200px;
+     padding-right: 200px;
+     margin-top: -10px;
+     }
+
+.but button:hover{
+        background-color:rgba(144, 151, 158, 0.959);
+    }
+    
+    .but button{
+        
+  
+        border: none;
+        border-radius: 20px;
+        color:rgb(3, 3, 26);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 20px;
+        margin-left: 38px;
+        background-color: white;
+        border: 2px solid rgb(3, 3, 26);
+        display: flex;
+       }

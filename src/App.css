@@ -1,0 +1,65 @@
+body{
+  margin: 0px;
+}
+
+
+.home{
+  background-image: url("../src/images/background.jpg")
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 350px;
+  background-color: whitesmoke;
+  border: none;
+  border-radius: 8%;
+}
+
+.container h1{
+  text-align: center;
+  
+}
+
+.admin{
+  margin-top: 30px;
+  margin-right: 50px;
+  font-weight: bold;
+  display: flex;
+  margin-left: 120px;
+}
+
+.user{
+  margin-top: 60px;
+  margin-right: 48px;
+  font-weight: bold;
+  display: flex;
+  margin-left: 120px;
+}
+
+.home a{
+  padding: 2%;
+  text-decoration:none ;
+  font-size: large;
+  color: black;
+ 
+}
+
+.admin button{
+  width: 100px;
+  border:0;
+}
+
+.user button{
+ 
+  width: 100px;
+  border: 0;
+}
+
+
+.container img{
+  width: 20%;
+  border-radius: 50%;
+}
+

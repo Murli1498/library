@@ -1,0 +1,122 @@
+.userhome {
+    height: 360vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.userhome h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: coral;
+}
+
+.one {
+  background-image: url("https://media.istockphoto.com/id/1209683444/photo/many-hardbound-books-background-selective-focus.jpg?s=612x612&w=0&k=20&c=KQUx5YOmbVrcsCOLVoW8-zOs9b3yhnw5FCeadUVQtjw=");
+  width: 70%;
+  margin-top: 5%;
+  height: 40vh;
+  margin-left: 25%;
+  display: flex;
+  flex-direction: column;
+}
+
+.two {
+  background-color: white;
+  width: 55%;
+  height: 50vh;
+  margin-left: 30%;
+  margin-top: -10%;
+}
+
+.two h1 {
+  text-align: left;
+}
+
+.userhome h4 {
+  font-weight: bold;
+  font-style: oblique;
+  font-size: large;
+}
+
+.userhome h3 {
+  text-decoration: underline;
+}
+
+.three {
+  background-image: url("https://media.istockphoto.com/id/1263424631/photo/e-learning-online-education-or-internet-encyclopedia-concept-open-laptop-and-book-compilation.jpg?s=612x612&w=0&k=20&c=2xih46TXLwHnvgU5FaY9FRRc3F62MpzL__S8O6v2jRU=");
+  width: 70%;
+  margin-top: 5%;
+  height: 40vh;
+  margin-left: 25%;
+}
+
+.four {
+  background-color: white;
+  width: 55%;
+  height: 40vh;
+  margin-left: 30%;
+  margin-top: -5%;
+}
+
+.four h1 {
+  text-align: left;
+}
+
+.four h4 {
+  font-weight: bold;
+  font-style: oblique;
+  font-size: large;
+}
+
+.five {
+    background-image: url("https://images.pexels.com/photos/1370295/pexels-photo-1370295.jpeg?auto=compress&cs=tinysrgb&w=600");
+    width: 70%;
+    margin-top: 5%;
+    height: 40vh;
+    margin-left: 25%;
+}
+
+.six{
+    background-color: white;
+    width: 55%;
+    height: 40vh;
+    margin-left: 30%;
+    margin-top: -5%;
+}
+
+.six h1 {
+    text-align: left;
+  }
+  
+  .six h4 {
+    font-weight: bold;
+    font-style: oblique;
+    font-size: large;
+  }
+
+  .seven{
+    background-image: url("https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=600");
+    width: 70%;
+    margin-top: 5%;
+    height: 40vh;
+    margin-left: 25%;
+
+  }
+
+  .eight{
+    background-color: white;
+    width: 55%;
+    height: 40vh;
+    margin-left: 30%;
+    margin-top: -5%;
+  }
+
+  .eight h1{
+    text-align: left;
+  }
+
+  .eight h4{
+    font-weight: bold;
+    font-style: oblique;
+    font-size: large;
+    }

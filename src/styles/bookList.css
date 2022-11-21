@@ -1,0 +1,28 @@
+.booklist{
+    height: 100vh;
+    background-color: blanchedalmond;
+   background-image: url("../images/background.jpg");
+    width: 100%;
+    background-size: cover;
+}
+
+
+
+.books{
+    display: flex;
+    /* justify-content: space-around; */
+    flex-wrap: wrap;
+   
+    
+    /* width: 40%; */
+    margin-left: 190px;
+}
+
+.list{
+    margin: 40px;
+    border: 20px solid;
+    width: 170px;
+    height: 6cm;
+
+    
+}

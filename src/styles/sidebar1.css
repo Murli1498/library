@@ -1,0 +1,37 @@
+.sidebar1{
+    width: 15%;
+    height: 100vh;
+    background-color: hsl(271, 76%, 53%);
+    position: fixed;
+    top: 0px;
+}
+
+.sidebar1 img{
+    width:10%;
+    height: 1.5cm;
+}
+
+.align{
+    display: flex;
+    background-color: paleturquoise;
+}
+
+.text a{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 20px;
+    font-size: large;
+    font-weight: bold;
+    width:50%;
+    height: 1cm;
+    padding-top: 10px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.align h5{
+    margin-left: 60px;
+    margin-top: 10px;
+    color: black;
+}

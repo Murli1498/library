@@ -1,0 +1,55 @@
+{
+  "books": [
+    {
+      "title": "Ramayana",
+      "author": "Valmiki",
+      "rating": 4.5,
+      "genre": "Devotional",
+      "id": 3
+    },
+    {
+      "title": "MahaBharat",
+      "author": "Vyasa Muni",
+      "rating": 4.6,
+      "genre": "Devotional",
+      "id": 4
+    },
+    {
+      "title": "Bhagwad Gita",
+      "author": "Sri Krishna",
+      "rating": "5",
+      "genre": "Enlightment",
+      "id": 5
+    },
+    {
+      "title": "2 States",
+      "author": "Chetan Bhagat",
+      "rating": "3",
+      "genre": "Love",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "fname": "Darshan",
+      "lname": "Devadiga",
+      "email": "user1@gmail.com",
+      "phno": 8764891423,
+      "id": 1
+    },
+    {
+      "fname": "Sudeep",
+      "lname": "Kiccha",
+      "email": "user2@gmail.com",
+      "phno": 78941236987,
+      "id": 2
+    },
+    {
+      "fname": "ullas",
+      "lname": "p",
+      "email": "ullas@gmail.com",
+      "phno": "77788877788",
+      "id": 3
+    }
+  ]
+}

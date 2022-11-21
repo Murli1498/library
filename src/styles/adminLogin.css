@@ -1,0 +1,41 @@
+.adminLogin{
+    background-image: url("../images/lib2.jpg");
+    display: flex;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card{
+    background-color: whitesmoke;
+    margin-top: 200px;
+    width: 400px;
+    height: 300px;
+    margin-left: 500px;
+    text-align: center;
+}
+
+.card input{
+    background-color: whitesmoke;
+    color: black;
+    width: 300px;
+    border-top: 0px ;
+    border-left: 0px;
+    border-right: 0px;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+.card label{
+    margin-top: 20px;
+}
+
+
+#btn2{
+    margin-left: 70px;
+    
+}
+
+.card a{
+    text-decoration: none;
+    color: black;
+}
